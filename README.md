@@ -4,7 +4,7 @@
 
 ## 使用
 
-- 在线体验：启用 GitHub Pages 后打开仓库的网页地址。
+- 在线体验：[打开四卡看板 Demo](https://lotwhoo.github.io/four-card-dashboard-demo/)，无需登录或安装。
 - 离线体验：下载 `四卡看板Demo.html`，在任意电脑上用浏览器打开，无需安装依赖。
 - 整包下载：在 GitHub 仓库点击 Code → Download ZIP，解压后打开 `index.html`。
 
